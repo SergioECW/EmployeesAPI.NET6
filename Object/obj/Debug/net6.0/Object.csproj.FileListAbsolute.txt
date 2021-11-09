@@ -1,0 +1,12 @@
+C:\Users\Sergio\source\repos\WebShop\Object\bin\Debug\net6.0\Object.deps.json
+C:\Users\Sergio\source\repos\WebShop\Object\bin\Debug\net6.0\Object.dll
+C:\Users\Sergio\source\repos\WebShop\Object\bin\Debug\net6.0\ref\Object.dll
+C:\Users\Sergio\source\repos\WebShop\Object\bin\Debug\net6.0\Object.pdb
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\Object.GlobalUsings.g.cs
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\Object.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\Object.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\Object.dll
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\ref\Object.dll
+C:\Users\Sergio\source\repos\WebShop\Object\obj\Debug\net6.0\Object.pdb

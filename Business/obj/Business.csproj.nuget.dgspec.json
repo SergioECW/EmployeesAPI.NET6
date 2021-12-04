@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergio\\source\\repos\\WebShop\\Business\\Business.csproj": {}
+    "C:\\Users\\Sergio\\source\\repos\\Employees\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergio\\source\\repos\\WebShop\\Business\\Business.csproj": {
+    "C:\\Users\\Sergio\\source\\repos\\Employees\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\Employees\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\Data.csproj"
+              "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\Data.csproj"
               },
-              "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj": {
-                "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj"
+              "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\Data.csproj": {
+    "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\obj\\",
+        "outputPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj": {
-                "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj"
+              "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj": {
+    "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj",
         "projectName": "Object",
-        "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj",
+        "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj",
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\obj\\",
+        "outputPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",

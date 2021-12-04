@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Data\\obj\\",
+      "outputPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -496,8 +496,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj": {
-              "projectPath": "C:\\Users\\Sergio\\source\\repos\\WebShop\\Object\\Object.csproj"
+            "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj": {
+              "projectPath": "C:\\Users\\Sergio\\source\\repos\\Employees\\Object\\Object.csproj"
             }
           }
         }

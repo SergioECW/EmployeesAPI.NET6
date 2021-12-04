@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd4b243f-cdd7-4b27-a628-682048104e56": {
+      "ProjectGuid": "bd4b243f-cdd7-4b27-a628-682048104e56",
+      "DisplayName": "Data",
+      "ColorIndex": 0
+    },
+    "e731ddd7-fc95-49ce-9f65-a07066bcdc40": {
+      "ProjectGuid": "e731ddd7-fc95-49ce-9f65-a07066bcdc40",
+      "DisplayName": "EmployeesAPI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
